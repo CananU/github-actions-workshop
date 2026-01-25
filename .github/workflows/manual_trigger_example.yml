@@ -10,8 +10,8 @@ on:
             - school
             - university
             - college
-        message:
-          required: true
+      message:
+        required: true
 
 jobs:
   manually-triggered:
